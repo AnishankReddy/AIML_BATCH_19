@@ -1,7 +1,7 @@
 # AIML_BATCH_19
 1.[lab1](https://colab.research.google.com/drive/1GEtkPevNqSuNkukn7c7yLvBJ2EiTVdAS?authuser=1#scrollTo=V5lomQ8gEK4N).
 2.[Lab-2](https://github.com/AnishankReddy/AIML_BATCH_19/blob/main/Lab02_AIML.ipynb).
-3.[Lab-3](https://github.com/AnishankReddy/AIML_BATCH_19/blob/main/Assignment_3_AIML.ipynb).
+3.[Lab-3](https://github.com/AnishankReddy/AIML_BATCH_19/blob/main/Lab03_AIML.ipynb).
 4.[Lab-4](https://github.com/AnishankReddy/AIML_BATCH_19/blob/main/Assignment4.ipynb).
 5.[Lab-5](https://github.com/AnishankReddy/AIML_BATCH_19/blob/main/Lab05_AIML.ipynb).
 6.[Lab-6](https://github.com/AnishankReddy/AIML_BATCH_19/blob/main/Lab06_AIML.ipynb).
