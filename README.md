@@ -8,4 +8,4 @@
 7.[Lab-7](https://github.com/AnishankReddy/AIML_BATCH_19/blob/main/Lab07_SVM.ipynb).
 8.[Lab-8](https://github.com/AnishankReddy/AIML_BATCH_19/blob/main/Assignment8.ipynb).
 9.[Lab-9](https://github.com/AnishankReddy/AIML_BATCH_19/blob/main/Lab09_RF_Classification.ipynb).
-10[Lab-10](https://github.com/AnishankReddy/AIML_BATCH_19/blob/main/Assignment10.ipynb).
+10[Lab-10](https://github.com/AnishankReddy/AIML_BATCH_19/blob/main/Lab10_KMeans.ipynb).
